@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./observationesana00rudo_0003.png"; bbox 0 0 2048 2713; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 749 1019 770 1052">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 749 1019 770 1052">
+     <span class='ocr_line' id='line_1_1' title="bbox 749 1019 770 1052; baseline 0.095 -1"><span class='ocrx_word' id='word_1_1' title='bbox 749 1019 770 1052; x_wconf 85' lang='lat' dir='ltr'><em>l</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 621 1185 1079 1276">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 621 1185 1079 1276">
+     <span class='ocr_line' id='line_1_2' title="bbox 621 1185 1079 1276; baseline 0.065 -14"><span class='ocrx_word' id='word_1_2' title='bbox 621 1185 1009 1276; x_wconf 41' lang='lat' dir='ltr'><em>Woezffmss&#39;</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 953 1239 1027 1269; x_wconf 50' lang='grc' dir='ltr'><em>(ὅ</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1011 1240 1079 1270; x_wconf 93' lang='lat' dir='ltr'>U</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 715 895 1913 1042">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 715 895 1913 1042">
+     <span class='ocr_line' id='line_1_3' title="bbox 791 895 1469 924; baseline 0.072 -49"><span class='ocrx_word' id='word_1_5' title='bbox 791 895 805 920; x_wconf 57' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_6' title='bbox 1123 902 1128 903; x_wconf 17' lang='lat'><em>⁷</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1414 910 1426 917; x_wconf 63' lang='lat'><em>‚</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1466 922 1469 924; x_wconf 86' lang='grc'>,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 715 904 1913 1042; baseline 0.038 -45"><span class='ocrx_word' id='word_1_9' title='bbox 715 921 996 1007; x_wconf 41' lang='lat' dir='ltr'><em>„stigmam</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1064 904 1185 1004; x_wconf 42' lang='lat' dir='ltr'><em>&amp;jz</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1198 926 1641 1010; x_wconf 44' lang='lat' dir='ltr'><em>fbhcss&#39;ssfffswbw</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1710 954 1768 1033; x_wconf 46' lang='grc' dir='ltr'><em>(ὁ</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 1779 954 1851 1042; x_wconf 47' lang='lat'><em>37</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 1868 942 1913 1041; x_wconf 46' lang='lat' dir='ltr'><em>j</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1135 1176 1924 1324">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1135 1176 1924 1324">
+     <span class='ocr_line' id='line_1_5' title="bbox 1135 1176 1924 1324; baseline 0.066 -58.755"><span class='ocrx_word' id='word_1_15' title='bbox 1135 1176 1407 1278; x_wconf 36' lang='lat' dir='ltr'><em>seam</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1437 1206 1678 1324; x_wconf 37' lang='lat' dir='ltr'><em>postam</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1716 1207 1924 1296; x_wconf 48' lang='lat'><em>&amp;1³79</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
